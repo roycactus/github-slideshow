@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+XHR works in all modern browsers, and IE7 and above.
 Use the left arrow to go back!
